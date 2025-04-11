@@ -128,7 +128,7 @@ const RenderLearnSection = ({ learnData, }) => {
                     <View style={{ flexDirection: 'row', justifyContent: 'space-between', marginBottom: 5, }}>
                         <TouchableOpacity style={{
                             backgroundColor: '#747474', borderRadius: 5, minWidth: wp(30), height: hp(3.5),
-                            justifyContent: 'center', alignItems: 'center'
+                            justifyContent: 'center', alignItems: 'center', paddingHorizontal: 10,
                         }}>
                             <Text style={{
                                 fontSize: hp(2),

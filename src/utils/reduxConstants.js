@@ -1,0 +1,6 @@
+export default ReduxConstants = {
+    GET_PLAY_ABOUT: "GET_PLAY_ABOUT",
+    SET_PLAY_ABOUT: "SET_PLAY_ABOUT",
+    GET_LEARN_ABOUT: "GET_LEARN_ABOUT",
+    SET_LEARN_ABOUT: "SET_LEARN_ABOUT",
+}
